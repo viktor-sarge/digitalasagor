@@ -1,0 +1,2 @@
+Digitala sagor, with the exception of tooltip.py, was originally written by Mattias Persson (d98mp@yahoo.se). 
+tooltip.py was originally written by Michael Lange. 
